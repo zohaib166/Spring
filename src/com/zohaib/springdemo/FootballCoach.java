@@ -6,4 +6,10 @@ public class FootballCoach implements Coach {
 		return "Dribble for 10 min";
 	}
 
+	@Override
+	public String getDailyFortune() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
